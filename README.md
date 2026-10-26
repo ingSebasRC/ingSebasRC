@@ -32,27 +32,8 @@ Me apasiona construir soluciones tecnológicas mediante el desarrollo de aplicac
 ### ☁️ Cloud, DevOps y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github,vscode,postman" alt="Linux, Docker, AWS, Git, GitHub, VS Code y Postman" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github,vscode" alt="Linux, Docker, AWS, Git, GitHub, VS Code" />
 </p>
-
-## 🚀 Proyectos destacados
-
-### 🏨 TreeHouse Hotel 1959
-Sistema de gestión hotelera con funcionalidades de reservas, gestión de huéspedes, consumos y control de inventario.
-
-**Tecnologías:** JavaScript, Node.js, Express y MySQL.
-
-### 📱 IRONLOG
-Aplicación móvil orientada al seguimiento y registro de entrenamientos de gimnasio.
-
-**Tecnologías:** Flutter, Dart y SQLite.
-
-### 🚚 TuFlete
-Proyecto de aplicación para la gestión de servicios de transporte de carga, con funcionalidades relacionadas con geolocalización y gestión de información.
-
-**Tecnologías:** Flutter, APIs y bases de datos.
-
-> Visita mis repositorios para conocer más sobre mis proyectos, su implementación y los aprendizajes de cada desarrollo.
 
 ## 📊 Mi actividad en GitHub
 
