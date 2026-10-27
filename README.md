@@ -38,17 +38,16 @@ Me apasiona construir soluciones tecnológicas mediante el desarrollo de aplicac
 ## 📊 Mi actividad en GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=github_dark" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ingSebasRC&show_icons=true&hide_border=true&theme=github_dark" alt="Estadísticas de GitHub" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&theme=github_dark" alt="Lenguajes más utilizados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingSebasRC&layout=compact&hide_border=true&theme=github_dark" alt="Lenguajes más utilizados" />
 </p>
 
 ## 📫 Conecta conmigo
 
-- 💼 LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/sebastian-rodr%C3%ADguez-c%C3%A1rdenas-0006782a7/?isSelfProfile=true)
-
+- 💼 LinkedIn: https://www.linkedin.com/in/sebastian-rodr%C3%ADguez-c%C3%A1rdenas-0006782a7/
 
 ---
 
