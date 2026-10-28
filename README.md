@@ -38,10 +38,6 @@ Me apasiona construir soluciones tecnológicas mediante el desarrollo de aplicac
 ## 📊 Mi actividad en GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ingSebasRC&show_icons=true&hide_border=true&theme=github_dark" alt="Estadísticas de GitHub" />
-</p>
-
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingSebasRC&layout=compact&hide_border=true&theme=github_dark" alt="Lenguajes más utilizados" />
 </p>
 
