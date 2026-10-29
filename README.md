@@ -1,6 +1,6 @@
 # ¡Hola! Soy Sebastián Rodríguez 👋
 
-🎓 Estudiante de **Ingeniería Informática** | 💻 Desarrollador de Software
+🎓 Estudiante de **Ingeniería Informática** | 💻 DevOps
 
 Me apasiona construir soluciones tecnológicas mediante el desarrollo de aplicaciones web y móviles, la integración de APIs y la gestión de bases de datos. Actualmente estoy fortaleciendo mis conocimientos en **Cloud Computing y DevOps**, explorando herramientas para automatizar procesos y desplegar aplicaciones.
 
